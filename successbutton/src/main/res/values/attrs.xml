@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="successButton">
+        <attr name="sb_buttonColor1" format="integer" />
+        <attr name="sb_buttonColor2" format="integer" />
+    </declare-styleable>
+</resources>

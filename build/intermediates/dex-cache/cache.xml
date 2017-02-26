@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_ba39a36578e42ae5d2b3445a6936806282bfa880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_07ecefcbea5e3ad142f46a0f71639768bffd88ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\com.android.support-support-v4-25.1.1_d99dcdb56d94b918ba68cbd6d9715c83dfbb7c10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_4f37f60f9dd09d621d3b39a27d7920f38c622775\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_088768190d4ed11129822d329768111a63f12ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\com.android.support-support-compat-25.1.1_5eb8668a885282a193f8d57adb69c71a6cc11dbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_cea19b252569c0a64a57ecfe71a71eb4dc220fb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\incremental-classes\prod\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25d65b4ddec7a399660adee7d8b7a7128e415867">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\instant-run-bootstrap_ae40c193c0813b5228ef8f5075436e5ff8fd1782\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\support-annotations-25.1.1_f5465433ca18b3e95b21a9a9d602b9cb64b7adc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_fbd798f7288bc54de9f1786b0c663a568664a78a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_f75bd71dc11c18ee73e798c9b5fa52c661eff81d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\incremental-runtime-classes\prod\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cbfc2b87f1f1cd22a1c3822aba3975b3b1c46ded">
+        <dex dex="C:\Users\Talentica\Desktop\meetup-button\app\build\intermediates\transforms\dex\prod\debug\folders\1000\10\instant-run_d2e5524de08e7373ef52fdbc9fb74b7b09a6a717\classes.dex" />
+    </item>
+
+</items>
